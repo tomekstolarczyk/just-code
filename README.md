@@ -1,6 +1,6 @@
 ## Welcome!
 
-Started : 01/05/2026
+*Started : 01/05/2026*
 
 This repository is **not a project** - it's a training ground.
 - My goal is simple: build fluency in C, C++, and Python through daily problem-solving, with **C++** as my primary focus.
